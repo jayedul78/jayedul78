@@ -18,7 +18,7 @@ Tools: coding C, Git
 
 📌 Projects
 
-🔹 Calculator App – A calculator built in C with an HTML interface (Work in Progress)
+🔹 A simple scientific calculator using C language.
 
 📫 Connect with Me
 
